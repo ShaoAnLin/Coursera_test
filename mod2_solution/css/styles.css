@@ -8,10 +8,12 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
   font-size: 48px;
+  font-family: 'Bungee', cursive;
 }
 
-p .section {
-  margin-top: 10px;
+.section > p {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .row {
@@ -35,6 +37,7 @@ p .section {
   font-size: 32px;
   float: right;
   text-align: center;
+  font-family: 'Dosis', sans-serif;
 }
 
 .description {
