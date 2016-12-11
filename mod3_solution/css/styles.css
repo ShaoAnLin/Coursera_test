@@ -94,4 +94,8 @@ h1 {
 }
 
 /********** Medium devices only **********/
-@media (max-width: 767px) {}
+@media (max-width: 767px) {
+  #top {
+    padding-left: 10px;
+  }
+}
