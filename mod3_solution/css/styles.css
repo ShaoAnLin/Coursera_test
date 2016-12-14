@@ -4,6 +4,13 @@
 }
 
 /* header */
+.navbar-brand {
+  padding-top: 25px;
+  margin-bottom: 25px;
+  font-size: 48px;
+  font-family: 'Bungee', cursive;
+}
+
 #nav-list a {
   background-color: grey;
   font-size: 24px;
@@ -95,7 +102,7 @@ h1 {
 
 /********** Medium devices only **********/
 @media (max-width: 767px) {
-  #top {
+  .navbar-brand {
     padding-left: 10px;
   }
 }
